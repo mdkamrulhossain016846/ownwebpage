@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
+    margin: 10;
     padding: 0;
     box-sizing: border-box;
 }
@@ -12,8 +12,9 @@ body {
 }
 
 header, nav, section, footer {
-    background-color: #2e8857;
+    background-color: #4e55b4;
     color: #fff;
+    margin: 10;
 }
 
 /* Add this style to your existing CSS file */
