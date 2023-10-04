@@ -13,7 +13,7 @@ body {
 
 header, nav, section, footer {
     background-color: #4e55b4;
-    color: #fff;
+    color: rgb(255, 255, 255);
     margin: 10;
 }
 
